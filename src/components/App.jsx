@@ -1,11 +1,11 @@
 import React from "react";
-import Seat from "./Seat";
+import Room from "./Room";
 
 function App() {
     return (
         <div>
             <h1>Movie Ticket App</h1>
-            <Seat />
+            <Room />
         </div>
     );
 }
